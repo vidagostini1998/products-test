@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smart TV 4K Sony LED 55\" com Pesquisa de Voz, Google Assistente, Chromecast e Wi-Fi - XBR-55X805G",
+      "price": 3399.18,
+      "category": "TV",
+      "img": "https://static.jusbr.com/hackathon-laboratoria/products/1.jpg",
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "name": "Cafeteira Nespresso Essenza Mini Preto para Café Espresso - C30-BR",
+      "price": 269.58,
+      "category": "Eletrodomesticos",
+      "img": "https://static.jusbr.com/hackathon-laboratoria/products/2.jpg",
+      "quantity": 5
+    },
+    {
+      "id": 3,
+      "name": "Refrigerador de 02 Portas Brastemp Frost Free com 443 Litros com Freezer Invertido Cor Inox - BRE57AK",
+      "price": 3149,
+      "category": "Eletrodomesticos",
+      "img": "https://static.jusbr.com/hackathon-laboratoria/products/2.jpg",
+      "quantity": 5
+    },
+    {
+      "id": 4,
+      "name": "Caixa de Som Bluetooth JBL Flip 5 com 20W para Android, iOS e Windows Phone Verde",
+      "price": 486.89,
+      "category": "Som",
+      "img": "https://static.jusbr.com/hackathon-laboratoria/products/4.jpg",
+      "quantity": 5
+    },
+    {
+      "id": 5,
+      "name": "Zenfone Max Pro M2 Titanium Asus, com Tela de 6,3”, 4G, 128 GB e Câmera de 12+5 MP – ZB631KL-4J092BR",
+      "price": 1399,
+      "category": "Celular",
+      "img": "https://static.jusbr.com/hackathon-laboratoria/products/5.jpg",
+      "quantity": 5
+    }
+  ]
+}
